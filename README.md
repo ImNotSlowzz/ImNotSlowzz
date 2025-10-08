@@ -4,7 +4,7 @@
   <h1>👋 Olá, eu sou o <strong>ImNotSlowzz</strong>!</h1>
   
   <!-- Efeito de texto digitando -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-end;Apaixonado+por+tecnologia;Criando+experi%C3%AAncias+digitais+incr%C3%ADveis!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-end;Apaixonado+por+tecnologia!;" alt="Typing SVG" />
 </div>
 
 ---
