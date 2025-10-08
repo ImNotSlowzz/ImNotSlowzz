@@ -1,21 +1,23 @@
-<!-- Banner ou GIF de boas-vindas -->
+<!-- Banner animado de boas-vindas -->
 <div align="center">
   <img src="https://i.gifer.com/origin/7e/7ef7d3c06d808b34b60ebd9e7cf6e36b_w200.gif" width="200" alt="Boas-vindas"/>
   <h1>👋 Olá, eu sou o <strong>ImNotSlowzz</strong>!</h1>
-  <p>💡 Sempre em busca de criar experiências digitais incríveis!</p>
+  
+  <!-- Efeito de texto digitando -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-end;Apaixonado+por+tecnologia;Criando+experi%C3%AAncias+digitais+incr%C3%ADveis!" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🧠 Sobre mim
-Sou um desenvolvedor focado em **Front-end**, apaixonado por tecnologia, design e performance.  
-Busco sempre aprimorar minhas habilidades e transformar ideias em interfaces modernas e funcionais.  
+Sou um desenvolvedor focado em **Front-end**, apaixonado por design, performance e boas experiências de usuário.  
+Busco sempre evoluir como programador e dar vida a ideias com código limpo e criativo.  
 
 ---
 
 ### ⚙️ Tecnologias que uso e estudo
 <div align="center">
-  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,9 +40,13 @@ Busco sempre aprimorar minhas habilidades e transformar ideias em interfaces mod
 
 ---
 
-### 🐍 Snake dos Commits
+### 🧩 Status atual
 <div align="center">
-  <img src="https://github.com/ImNotSlowzz/ImNotSlowzz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+![Status: Coding now](https://img.shields.io/badge/💻_Coding_now-8A2BE2?style=for-the-badge)
+![Learning: React](https://img.shields.io/badge/⚛️_Learning-React-blue?style=for-the-badge)
+![Focus: Front-end](https://img.shields.io/badge/🎯_Focus-Front--end-yellow?style=for-the-badge)
+
 </div>
 
 ---
@@ -72,6 +78,6 @@ Busco sempre aprimorar minhas habilidades e transformar ideias em interfaces mod
 ---
 
 <div align="center">
-  <sub>Feito com 💜 e muita dedicação por <strong>ImNotSlowzz</strong></sub>
+  <sub>Feito com 💜 e muita dedicação por <strong>ImNotSlowzz</strong></sub><br>
+  <img src="https://github.com/ImNotSlowzz/ImNotSlowzz/assets/00000000/typing-gif.gif" width="100">
 </div>
-
