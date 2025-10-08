@@ -1,6 +1,6 @@
 <!-- Banner animado de boas-vindas -->
 <div align="center">
-  <img src="https://i.gifer.com/origin/7e/7ef7d3c06d808b34b60ebd9e7cf6e36b_w200.gif" width="200" alt="Boas-vindas"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Boas-vindas"/>
   <h1>👋 Olá, eu sou o <strong>ImNotSlowzz</strong>!</h1>
   
   <!-- Efeito de texto digitando -->
